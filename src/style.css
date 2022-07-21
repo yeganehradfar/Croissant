@@ -1,0 +1,12 @@
+body{
+    background-color: blanchedalmond;
+}
+/* h1,p,a{
+    color: white;
+} */
+h1,p{
+    text-align: center;
+}
+.max-wid{
+    max-width: 800px;
+}
