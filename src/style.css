@@ -10,3 +10,10 @@ h1,p{
 .max-wid{
     max-width: 800px;
 }
+h1{
+    font-size: 56px;
+}
+img{
+    display: block;
+    margin: 0 auto;
+}
